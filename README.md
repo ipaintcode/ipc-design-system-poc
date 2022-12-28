@@ -1,2 +1,2 @@
-# ipc-design-system-poc
+# iPC-design-system-poc
 iPAINTCODE Design System Proof of Concept
