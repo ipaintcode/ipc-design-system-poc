@@ -1,0 +1,9 @@
+{
+  "name": "@ipaintcode-ds/storybook",
+  "packageManager": "yarn@3.3.1",
+  "private": true,
+  "dependencies": {
+    "@ipaintcode-ds/foundation": "workspace:^",
+    "@ipaintcode-ds/react": "workspace:^"
+  }
+}

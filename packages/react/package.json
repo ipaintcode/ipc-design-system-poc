@@ -1,0 +1,7 @@
+{
+  "name": "@ipaintcode-ds/react",
+  "packageManager": "yarn@3.3.1",
+  "dependencies": {
+    "@ipaintcode-ds/foundation": "workspace:^"
+  }
+}
